@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm PARNA MISHRA</h1>
 <h3 align="center">Undergrad Student At DJ SANGHVI COLLEGE OF ENGINEERING</h3>
+<br>
+<img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif'>
 
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
-- 📫 How to reach me **parnamishra97@gmail.com**
+- 📫 Start a convo : **parnamishra97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
